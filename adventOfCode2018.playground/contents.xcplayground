@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='d1p1'/>
+        <page name='d1p2'/>
+        <page name='d2p1'/>
+        <page name='d2p2'/>
+        <page name='d3p1'/>
+        <page name='d3p2'/>
+        <page name='d4p1'/>
+        <page name='d4p2'/>
+        <page name='d5p1'/>
+        <page name='d5p2'/>
+        <page name='d6p1'/>
+    </pages>
+</playground>
